@@ -1,0 +1,7 @@
+just created in folder
+next I must add to index  
+
+add (-u)  adds to index
+commit puts in local(computer repository)
+add -a does both
+push places it on the web
